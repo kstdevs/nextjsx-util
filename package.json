@@ -1,0 +1,21 @@
+{
+  "name": "@nestjsx/util",
+  "description": "NestJs CRUD for RESTful APIs - util",
+  "version": "5.0.0-f1",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kstdevs/nextjsx-util.git"
+  },
+  "scripts": {
+    "build": "npx tsc -b"
+  }
+}
